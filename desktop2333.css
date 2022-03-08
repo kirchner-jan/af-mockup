@@ -1,0 +1,593 @@
+.desktop2333-container {
+  min-height: 100vh;
+}
+.desktop2333-desktop2333 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 100%;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop2333-frame346 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.desktop2333-image {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 65px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(63, 81, 181, 1);
+}
+.desktop2333-text {
+  top: 24px;
+  left: 63px;
+  color: rgba(255, 255, 255, 1);
+  width: 100%;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+font-family: GreekFallback,"freight-sans-pro",Frutiger,"Frutiger Linotype",Univers,Calibri,"Gill Sans","Gill Sans MT",Myriad Pro,Myriad,"Liberation Sans","Nimbus Sans L",Tahoma,Geneva,"Helvetica Neue",Helvetica,Arial,sans-serif;  font-weight: 400;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2333-image1 {
+  top: 32px;
+  left: 25px;
+  width: 18px;
+  height: 2px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop2333-image2 {
+  top: 37px;
+  left: 25px;
+  width: 18px;
+  height: 2px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop2333-image3 {
+  top: 27px;
+  left: 25px;
+  width: 18px;
+  height: 2px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop2333-svg {
+  top: 25px;
+  right: 400px;
+  width: 11;
+  height: 11;
+  position: absolute;
+}
+.desktop2333-svg1 {
+  top: 40px;
+  right: 175px;
+  width: 8;
+  height: 1px;
+  position: absolute;
+}
+.desktop2333-svg2 {
+  top: 23px;
+  right: 125px;
+  width: 23;
+  height: 22;
+  position: absolute;
+}
+.desktop2333-svg3 {
+  top: 25.5px;
+  right: 75px;
+  width: 15;
+  height: 17;
+  position: absolute;
+}
+.desktop2333-text02 {
+  top: 21px;
+  right: 250px;
+  color: rgba(255, 255, 255, 1);
+  width: 139px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+font-family: GreekFallback,"freight-sans-pro",Frutiger,"Frutiger Linotype",Univers,Calibri,"Gill Sans","Gill Sans MT",Myriad Pro,Myriad,"Liberation Sans","Nimbus Sans L",Tahoma,Geneva,"Helvetica Neue",Helvetica,Arial,sans-serif;  font-weight: 400;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.desktop2333-frame142 {
+  top: 111px;
+  width: 709px;
+  margin:0 auto;
+  height: 142px;
+  position: relative;
+  border-color: transparent;
+}
+.desktop2333-text04 {
+  top: 9px;
+  left: 15px;
+  font-size: 2.0rem;
+  margin-top: 0;
+  font-weight: 500;
+  font-family: GreekFallback,"freight-sans-pro",Frutiger,"Frutiger Linotype",Univers,Calibri,"Gill Sans","Gill Sans MT",Myriad Pro,Myriad,"Liberation Sans","Nimbus Sans L",Tahoma,Geneva,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  line-height: 1.30357em;
+  margin-left: 0;
+  margin-bottom: 0;
+  letter-spacing: -.02em;
+  font-variant-numeric: lining-nums;
+  color: rgba(33, 33, 33, 1);
+  width: 597px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  text-decoration: none;
+}
+.desktop2333-text06 {
+  top: 56px;
+  left: 15px;
+  color: rgba(33, 33, 33, 1);
+  width: 131px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: GreekFallback,"freight-sans-pro",Frutiger,"Frutiger Linotype",Univers,Calibri,"Gill Sans","Gill Sans MT",Myriad Pro,Myriad,"Liberation Sans","Nimbus Sans L",Tahoma,Geneva,"Helvetica Neue",Helvetica,Arial,sans-serif;  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2333-text07 {
+  color: rgba(33, 33, 33, 1);
+  width: 131px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2333-text08 {
+  color: rgba(33, 33, 33, 1);
+  width: 131px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 700;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2333-text09 {
+  top: 63px;
+  left: 158px;
+  color: rgba(139, 139, 139, 1);
+  width: 74px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+font-family: GreekFallback,"freight-sans-pro",Frutiger,"Frutiger Linotype",Univers,Calibri,"Gill Sans","Gill Sans MT",Myriad Pro,Myriad,"Liberation Sans","Nimbus Sans L",Tahoma,Geneva,"Helvetica Neue",Helvetica,Arial,sans-serif;  font-weight: 400;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2333-text10 {
+  color: rgba(139, 139, 139, 1);
+  width: 74px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2333-text11 {
+  top: 63px;
+  left: 244px;
+  color: rgba(139, 139, 139, 1);
+  width: 74px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+font-family: GreekFallback,"freight-sans-pro",Frutiger,"Frutiger Linotype",Univers,Calibri,"Gill Sans","Gill Sans MT",Myriad Pro,Myriad,"Liberation Sans","Nimbus Sans L",Tahoma,Geneva,"Helvetica Neue",Helvetica,Arial,sans-serif;  font-weight: 400;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2333-text12 {
+  color: rgba(139, 139, 139, 1);
+  width: 74px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2333-text13 {
+  top: 63px;
+  left: 341px;
+  color: rgba(139, 139, 139, 1);
+  width: 74px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+font-family: GreekFallback,"freight-sans-pro",Frutiger,"Frutiger Linotype",Univers,Calibri,"Gill Sans","Gill Sans MT",Myriad Pro,Myriad,"Liberation Sans","Nimbus Sans L",Tahoma,Geneva,"Helvetica Neue",Helvetica,Arial,sans-serif;  font-weight: 400;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2333-text14 {
+  color: rgba(139, 139, 139, 1);
+  width: 74px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2333-image4 {
+  top: 97px;
+  left: 16px;
+  width: 138px;
+  height: 29px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(238, 238, 238, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(238, 238, 238, 1);
+}
+.desktop2333-text15 {
+  top: 105px;
+  left: 22px;
+  color: rgba(86, 81, 79, 1);
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+font-family: GreekFallback,"freight-sans-pro",Frutiger,"Frutiger Linotype",Univers,Calibri,"Gill Sans","Gill Sans MT",Myriad Pro,Myriad,"Liberation Sans","Nimbus Sans L",Tahoma,Geneva,"Helvetica Neue",Helvetica,Arial,sans-serif;  font-weight: 400;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2333-text16 {
+  color: rgba(86, 81, 79, 1);
+  width: 124px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2333-text17 {
+  top: 105px;
+  left: 158px;
+  color: rgba(166, 165, 166, 1);
+  width: 61px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+font-family: GreekFallback,"freight-sans-pro",Frutiger,"Frutiger Linotype",Univers,Calibri,"Gill Sans","Gill Sans MT",Myriad Pro,Myriad,"Liberation Sans","Nimbus Sans L",Tahoma,Geneva,"Helvetica Neue",Helvetica,Arial,sans-serif;  font-weight: 400;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2333-text18 {
+  color: rgba(166, 165, 166, 1);
+  width: 61px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2333-svg4 {
+  top: 67px;
+  left: 447px;
+  width: 4;
+  height: 4;
+  position: absolute;
+}
+.desktop2333-svg5 {
+  top: 67px;
+  left: 453px;
+  width: 4;
+  height: 4;
+  position: absolute;
+}
+.desktop2333-svg6 {
+  top: 67px;
+  left: 459px;
+  width: 4;
+  height: 4;
+  position: absolute;
+}
+.desktop2333-svg7 {
+  top: 14px;
+  left: 665px;
+  width: 16;
+  height: 57;
+  position: absolute;
+}
+.desktop2333-text19 {
+  top: 28px;
+  left: 667px;
+  color: rgba(158, 158, 158, 1);
+  width: 16px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+font-family: GreekFallback,"freight-sans-pro",Frutiger,"Frutiger Linotype",Univers,Calibri,"Gill Sans","Gill Sans MT",Myriad Pro,Myriad,"Liberation Sans","Nimbus Sans L",Tahoma,Geneva,"Helvetica Neue",Helvetica,Arial,sans-serif;  font-weight: 400;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2333-text20 {
+  color: rgba(158, 158, 158, 1);
+  width: 16px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2333-frame243 {
+  top: 150px;
+  margin:0 auto;
+  width: 692px;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.desktop2333-text21 {
+  color: rgba(0, 0, 0, 0.87);
+  font-size: 1.rem;
+  font-weight: 400;
+  font-family: GreekFallback,"freight-sans-pro",Frutiger,"Frutiger Linotype",Univers,Calibri,"Gill Sans","Gill Sans MT",Myriad Pro,Myriad,"Liberation Sans","Nimbus Sans L",Tahoma,Geneva,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  line-height: 1.5rem;
+  margin-bottom: 0.5rem;
+  font-variant-numeric: lining-nums;
+}
+
+.desktop2333-text25 {
+  color: rgba(110, 106, 209, 1);
+  width: 685px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+
+.desktop2333-text31 {
+  color: #424242;
+  font-size: 2.8rem;
+  margin-top: 1em;
+  font-weight: 500;
+  font-family: GreekFallback,"freight-sans-pro",Frutiger,"Frutiger Linotype",Univers,Calibri,"Gill Sans","Gill Sans MT",Myriad Pro,Myriad,"Liberation Sans","Nimbus Sans L",Tahoma,Geneva,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  line-height: 1.13333em;
+  margin-left: -0.02em;
+}
+
+
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * freight-sans-pro:
+ *   - http://typekit.com/eulas/000000000000000000010b5a
+ *   - http://typekit.com/eulas/000000000000000000010b5b
+ *   - http://typekit.com/eulas/000000000000000000010b60
+ *   - http://typekit.com/eulas/000000000000000000010b61
+ *   - http://typekit.com/eulas/000000000000000000010b58
+ *   - http://typekit.com/eulas/000000000000000000010b59
+ *   - http://typekit.com/eulas/000000000000000000010b5c
+ *   - http://typekit.com/eulas/000000000000000000010b5d
+ *   - http://typekit.com/eulas/000000000000000000010b5e
+ *   - http://typekit.com/eulas/000000000000000000010b5f
+ * warnock-pro:
+ *   - http://typekit.com/eulas/0000000000000000000173f8
+ *   - http://typekit.com/eulas/0000000000000000000173f9
+ *   - http://typekit.com/eulas/0000000000000000000173fc
+ *   - http://typekit.com/eulas/0000000000000000000173fd
+ *   - http://typekit.com/eulas/0000000000000000000173f6
+ *   - http://typekit.com/eulas/0000000000000000000173fa
+ *   - http://typekit.com/eulas/0000000000000000000173f7
+ *   - http://typekit.com/eulas/0000000000000000000173fb
+ *
+ * © 2009-2022 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2018-07-10 06:37:57 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=jvr1gjm&ht=tk&f=8498.8499.8500.8501.8502.8503.14739.14740.10954.13453.13454.13455.13456.13457.13458.13459.13460.13461&a=10927367&app=typekit&e=css");
+
+@font-face {
+font-family:"warnock-pro";
+src:url("https://use.typekit.net/af/7e242d/0000000000000000000173f8/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/7e242d/0000000000000000000173f8/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/7e242d/0000000000000000000173f8/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"warnock-pro";
+src:url("https://use.typekit.net/af/07aace/0000000000000000000173f9/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/07aace/0000000000000000000173f9/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/07aace/0000000000000000000173f9/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"warnock-pro";
+src:url("https://use.typekit.net/af/a626f2/0000000000000000000173fc/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/a626f2/0000000000000000000173fc/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/a626f2/0000000000000000000173fc/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"warnock-pro";
+src:url("https://use.typekit.net/af/4ef9c2/0000000000000000000173fd/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/4ef9c2/0000000000000000000173fd/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/4ef9c2/0000000000000000000173fd/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"warnock-pro";
+src:url("https://use.typekit.net/af/f75f6c/0000000000000000000173f6/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n3&v=3") format("woff2"),url("https://use.typekit.net/af/f75f6c/0000000000000000000173f6/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n3&v=3") format("woff"),url("https://use.typekit.net/af/f75f6c/0000000000000000000173f6/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n3&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"warnock-pro";
+src:url("https://use.typekit.net/af/f99736/0000000000000000000173fa/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n6&v=3") format("woff2"),url("https://use.typekit.net/af/f99736/0000000000000000000173fa/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n6&v=3") format("woff"),url("https://use.typekit.net/af/f99736/0000000000000000000173fa/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n6&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"warnock-pro";
+src:url("https://use.typekit.net/af/8e59e2/0000000000000000000173f7/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i3&v=3") format("woff2"),url("https://use.typekit.net/af/8e59e2/0000000000000000000173f7/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i3&v=3") format("woff"),url("https://use.typekit.net/af/8e59e2/0000000000000000000173f7/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i3&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"warnock-pro";
+src:url("https://use.typekit.net/af/7f3556/0000000000000000000173fb/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i6&v=3") format("woff2"),url("https://use.typekit.net/af/7f3556/0000000000000000000173fb/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i6&v=3") format("woff"),url("https://use.typekit.net/af/7f3556/0000000000000000000173fb/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i6&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"freight-sans-pro";
+src:url("https://use.typekit.net/af/442215/000000000000000000010b5a/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/442215/000000000000000000010b5a/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/442215/000000000000000000010b5a/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"freight-sans-pro";
+src:url("https://use.typekit.net/af/3df5fe/000000000000000000010b5b/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/3df5fe/000000000000000000010b5b/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/3df5fe/000000000000000000010b5b/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"freight-sans-pro";
+src:url("https://use.typekit.net/af/1709eb/000000000000000000010b60/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/1709eb/000000000000000000010b60/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/1709eb/000000000000000000010b60/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"freight-sans-pro";
+src:url("https://use.typekit.net/af/65fc7d/000000000000000000010b61/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/65fc7d/000000000000000000010b61/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/65fc7d/000000000000000000010b61/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"freight-sans-pro";
+src:url("https://use.typekit.net/af/ba2099/000000000000000000010b58/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n3&v=3") format("woff2"),url("https://use.typekit.net/af/ba2099/000000000000000000010b58/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n3&v=3") format("woff"),url("https://use.typekit.net/af/ba2099/000000000000000000010b58/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n3&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"freight-sans-pro";
+src:url("https://use.typekit.net/af/1ece10/000000000000000000010b59/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i3&v=3") format("woff2"),url("https://use.typekit.net/af/1ece10/000000000000000000010b59/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i3&v=3") format("woff"),url("https://use.typekit.net/af/1ece10/000000000000000000010b59/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i3&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"freight-sans-pro";
+src:url("https://use.typekit.net/af/8dd886/000000000000000000010b5c/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n5&v=3") format("woff2"),url("https://use.typekit.net/af/8dd886/000000000000000000010b5c/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n5&v=3") format("woff"),url("https://use.typekit.net/af/8dd886/000000000000000000010b5c/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n5&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"freight-sans-pro";
+src:url("https://use.typekit.net/af/441f33/000000000000000000010b5d/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i5&v=3") format("woff2"),url("https://use.typekit.net/af/441f33/000000000000000000010b5d/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i5&v=3") format("woff"),url("https://use.typekit.net/af/441f33/000000000000000000010b5d/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i5&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"freight-sans-pro";
+src:url("https://use.typekit.net/af/cef9f3/000000000000000000010b5e/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n6&v=3") format("woff2"),url("https://use.typekit.net/af/cef9f3/000000000000000000010b5e/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n6&v=3") format("woff"),url("https://use.typekit.net/af/cef9f3/000000000000000000010b5e/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n6&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"freight-sans-pro";
+src:url("https://use.typekit.net/af/2a72d2/000000000000000000010b5f/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i6&v=3") format("woff2"),url("https://use.typekit.net/af/2a72d2/000000000000000000010b5f/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i6&v=3") format("woff"),url("https://use.typekit.net/af/2a72d2/000000000000000000010b5f/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i6&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:600;font-stretch:normal;
+}
+
+.tk-warnock-pro { font-family: "warnock-pro",serif; }
+.tk-freight-sans-pro { font-family: "freight-sans-pro",sans-serif; }
+
